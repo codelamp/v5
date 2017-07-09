@@ -1,0 +1,3 @@
+excludeInFolderSearch = "{$excludeInFolderSearch,node_modules,build}"
+windowTitle           = "$TM_DISPLAYNAME — Codelamp v5"
+invisiblesMap         = "{$invisiblesMap}~"
